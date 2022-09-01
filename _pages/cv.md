@@ -11,4 +11,4 @@ redirect_from:
 
 
 For a PDF copy of my CV, please visit here.
-For any inquries, I would be happy to provide an updated CV on request.
+For any inquries, I would be happy to provide an updated CV on request. My LinkedIn is also [here](http://linkedin.com/in/benjaminpatrickevans/).
